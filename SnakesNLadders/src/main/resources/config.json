@@ -1,0 +1,7 @@
+{
+  "PlayerCount": 5,
+  "BoardSize": 100,
+  "snakes": 5,
+  "ladders": 5,
+  "dices": 1
+}
